@@ -23,4 +23,4 @@ Below is a brief summary of my commit history:
 
 ## Video Walkthrough
 You can find my short video walkthrough (including a screen recording and camera) here:
-[这里贴上你的YouTube视频链接]
+https://youtu.be/sGkR4Jp6Ons
